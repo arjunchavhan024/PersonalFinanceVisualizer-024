@@ -34,10 +34,10 @@ A simple and responsive web application to track and visualize personal finances
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: [Next.js](https://nextjs.org/), [React](https://reactjs.org/)
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
-- **Charts**: [Recharts](https://recharts.org/)
-- **Database**: [MongoDB](https://www.mongodb.com/)
+- **Frontend**: Next.js, React
+- **UI Components**: shadcn/ui
+- **Charts**: Recharts
+- **Database**: MongoDB
 
 ---
 
